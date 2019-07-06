@@ -72,5 +72,6 @@ main{  display: grid;
     #Tasiasplay,button {margin-left: inherit;
     margin-top: 0.1em;}
     #Tasiasplay {font-size: 8vw;}
-    img{margin-top: 2em;;}
+    img{margin-top: 2em;
+  margin-right: 5%;}
 }
