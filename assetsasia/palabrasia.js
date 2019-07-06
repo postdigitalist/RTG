@@ -33,7 +33,7 @@ var palabras = [
 "Cena",
 "Merienda",
 "Alfajor",
-"Racionalista",
+"Razón",
 "Ritmo",
 "Salsa",
 "Radfem",
@@ -44,7 +44,12 @@ var palabras = [
 "Monitor",
 "Elemento",
 "Rica",
-"Bover"];
+"Bover",
+"Liberal",
+"Roja",
+"Cuadro",
+"Bajo",
+"Cumbia"];
 
 var desinencias = [
   "sia",
