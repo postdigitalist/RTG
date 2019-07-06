@@ -61,7 +61,8 @@ border-radius: 5px;}
 }
 @media (max-width: 600px) {
 .mobile-header {display:block;
-text-align: center;}
+text-align: center;
+  margin-bottom: 0.5vw;}
 header{display:none;}
 .mobile-header, main, footer{
   text-align: center;}
