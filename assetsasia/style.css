@@ -59,11 +59,11 @@ border-radius: 5px;}
 .github a:hover{
   fill: #7568ba;
 }
-@media (max-width: 600px) {
+@media (max-width: 500px) {
 .mobile-header {display:block;
 text-align: center;}
 header{display:none;}
- display: grid;
+ main {display: grid;
     grid-template-columns: repeat(1, 1fr);
   grid-gap: 15px;}
 button, img, #Tasiasplay {margin-left: auto;
