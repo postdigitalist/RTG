@@ -71,7 +71,7 @@ main{  display: grid;
     grid-template-columns: repeat(1, 1fr);}
     #Tasiasplay,button {margin-left: inherit;
     margin-top: 0.1em;}
+  button, img {margin-right: 5%;}
     #Tasiasplay {font-size: 8vw;}
-    img{margin-top: 2em;
-  margin-right: 5%;}
+    img{margin-top: 2em;}
 }
