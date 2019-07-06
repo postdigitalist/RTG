@@ -56,7 +56,7 @@ border-radius: 5px;}
    margin-left: 95%;
    max-width: 20px;
 }
-.github:hover{
+.github a:hover{
   fill: #7568ba;
 }
 @media (max-width: 600px) {
