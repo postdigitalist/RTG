@@ -66,8 +66,10 @@ text-align: center;
 header{display:none;}
 .mobile-header, main, footer{
   text-align: center;}
-main{ positon: relative;
-  width: 500px;}
+main{ display: grid;
+   grid-template-columns: repeat(1, 1fr);
+    grid-gap: 10px;
+    max-width: 550px;}
     #Tasiasplay,button {
     margin-top: 0.1em;}
     #Tasiasplay {font-size: 15vw;}
