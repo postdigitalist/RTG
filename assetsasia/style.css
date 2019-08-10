@@ -78,4 +78,7 @@ border-radius: 5px;}
    font-size: 12vw;
    max-width: 100%;
  }
+  .github{
+  min-height: calc(100vh - 70px);
+  }
 }
